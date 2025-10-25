@@ -10,10 +10,13 @@ All other characters should remain unchanged.
 
 Examples:
 Input: This is CS50
+
 Output: This...is...CS50
 
 Input: This is our week on functions
+
 Output: This...is...our...week...on...functions
 
 Input: Let's implement a function called hello
+
 Output: Let's...implement...a...function...called...hello
